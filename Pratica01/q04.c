@@ -1,3 +1,5 @@
+//Faça um programa em C que imprima o produto dos valores 30 e 27..
+
 #include<stdio.h>
 #include<math.h>
 
